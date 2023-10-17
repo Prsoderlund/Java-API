@@ -45,7 +45,7 @@ ________________________________________________________________________________
 * DBMSFetchRawData
   * Den controller har en API-endpunkt men är inte tänkt att exponeras för FrontEnd, den hämtar rådata ifrån JavaBackEndDMBS endpunkterna
 
-        Den här koden är liknande det tidigare exemplet, men den hämtar rå temperaturdata från en annan API-ändpunkt, paketerar den i en ApiResponseDTO och returnerar den som ett JSON-svar.
+Den här koden är liknande det tidigare exemplet, men den hämtar rå temperaturdata från en annan API-ändpunkt, paketerar den i en ApiResponseDTO och returnerar den som ett JSON-svar.
 
 _________________________________________________________________________________________________________________________________________
 
